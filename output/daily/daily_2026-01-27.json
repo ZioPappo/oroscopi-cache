@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-01-27 00:31:20 CET",
+  "date_ref": "2026-01-27",
+  "planets": {
+    "Sole": {
+      "lon": 307.5552,
+      "sign": "Acquario"
+    },
+    "Luna": {
+      "lon": 54.6691,
+      "sign": "Toro"
+    },
+    "Mercurio": {
+      "lon": 311.5893,
+      "sign": "Acquario"
+    },
+    "Venere": {
+      "lon": 312.5288,
+      "sign": "Acquario"
+    },
+    "Marte": {
+      "lon": 303.2093,
+      "sign": "Acquario"
+    },
+    "Giove": {
+      "lon": 107.8817,
+      "sign": "Cancro"
+    },
+    "Saturno": {
+      "lon": 358.208,
+      "sign": "Pesci"
+    },
+    "Urano": {
+      "lon": 57.4848,
+      "sign": "Toro"
+    },
+    "Nettuno": {
+      "lon": 0.0196,
+      "sign": "Ariete"
+    },
+    "Plutone": {
+      "lon": 303.5532,
+      "sign": "Acquario"
+    }
+  },
+  "note": "Dati astronomici calcolati con Swiss Ephemeris (pyswisseph).",
+  "type": "daily",
+  "id": "2026-01-27"
+}
